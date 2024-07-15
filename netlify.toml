@@ -1,3 +1,0 @@
-[build]
-  functions = "src/js"
-  command = "echo 'this is only here so that netlify deploys functions within folders'"
